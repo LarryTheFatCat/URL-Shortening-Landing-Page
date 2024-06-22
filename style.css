@@ -156,6 +156,10 @@ html {
     color: white;
     font-weight: 700;
 }
-#btn_get_started {
+
+footer {
+    background-color: hsl(255, 11%, 22%);
+}
+#svg_footer {
     
 }
