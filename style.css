@@ -145,3 +145,17 @@ html {
     font-weight: 500;
     color: hsl(180, 66%, 49%);
 }
+
+#get_started_component {
+    background-image: url(./images/bg-boost-desktop.svg);
+    background-color: hsl(257, 27%, 26%);
+    color: white;
+    border-radius: 0;
+}
+#get_started_title {
+    color: white;
+    font-weight: 700;
+}
+#btn_get_started {
+    
+}
