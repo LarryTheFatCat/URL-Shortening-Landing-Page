@@ -41,13 +41,13 @@ html {
     color: hsl(255, 11%, 22%);
 }
 #btn_register {
-    background-color: hsl(257, 7%, 63%);
+    background-color: hsl(180, 66%, 49%);
     color: white;
     font-weight: 500;
     border: none !important;
 }
 #btn_register:hover {
-    background-color: hsl(0, 0%, 75%);
+    background-color: rgb(177, 226, 225);
 }
 #title_content {
     color: hsl(255, 11%, 22%);
@@ -71,4 +71,18 @@ html {
     top: 15%;
     left: 70%;
     width: 40%;
+}
+#input_card {
+    padding-top: 13em;
+}
+#card {
+    background-image: url(./images/bg-boost-desktop.svg);
+    background-color: hsl(255, 11%, 22%);
+}
+#btn_shorten_link {
+    background-color: hsl(180, 66%, 49%);
+}
+#btn_shorten_link:hover {
+    background-color: rgb(177, 226, 225);
+
 }
