@@ -1,2 +1,2 @@
-# URL-Shortening-Landing-Page
-Built with HTML, CSS, Bootstrap
+# URL Shortening Landing Page
+Built on [Bootstrap](https://www.getbootstrap.com/)!

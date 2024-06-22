@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+html {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+}
+
+.navbar {
+    font-size: 14px;
+}
+
+#nav_features {
+    margin-left: 20px;
+    font-weight: 700;
+    color: hsl(257, 7%, 63%);
+}
+#nav_features:hover {
+    color: hsl(255, 11%, 22%);
+}
+#nav_price {
+    color: hsl(257, 7%, 63%);
+    font-weight: 700;
+}
+#nav_price:hover {
+    color: hsl(255, 11%, 22%);
+}
+#nav_resources {
+    color: hsl(257, 7%, 63%);
+    font-weight: 700;
+}
+#nav_resources:hover {
+    color: hsl(255, 11%, 22%);
+}
+#nav_login {
+    color: hsl(257,7%,63%);
+    font-weight: 700;
+    margin-right: 20px;
+}
+#nav_login:hover {
+    color: hsl(255, 11%, 22%);
+}
+#btn_register {
+    background-color: hsl(257, 7%, 63%);
+    color: white;
+    font-weight: 500;
+    border: none !important;
+}
+#btn_register:hover {
+    background-color: hsl(0, 0%, 75%);
+}
+#title_content {
+    color: hsl(255, 11%, 22%);
+    font-size: 60px;
+    font-weight: 700;
+    max-width: 30rem;
+}
+#title_description {
+    color: hsl(257,7%,63%);
+    font-weight: 500;
+    max-width: 25rem;
+}
+#btn_get_started {
+    width: 9rem;
+    background-color: hsl(180, 66%, 49%);
+}
+#btn_get_started:hover {
+    background-color: rgb(177, 226, 225);
+}
+#illustration_working {
+    top: 15%;
+    left: 70%;
+    width: 40%;
+}
