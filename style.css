@@ -84,5 +84,64 @@ html {
 }
 #btn_shorten_link:hover {
     background-color: rgb(177, 226, 225);
+}
 
+#background {
+    padding-top: 13em;
+    background-color: rgb(240,241,246);
+    width: 100% !important;
+    position: relative;
+    top: -4rem;
+    z-index: -1;
+}
+#stats_text {
+    color: hsl(255, 11%, 22%);
+    font-weight: 700;
+}
+#stats_body {
+    max-width: 30rem;
+    color: hsl(180, 66%, 49%);
+    font-weight: 500;
+}
+
+#brand {
+    background-color: hsl(255, 11%, 22%); 
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+
+#detailed_records_card {
+    padding-top: 4em;
+}
+#fully_customizable_card {
+    padding-top: 10em;
+}
+
+#brand_recognition_title {
+    color: hsl(255, 11%, 22%);
+    font-weight: 700;
+}
+
+#brand_recognition_text {
+    font-weight: 500;
+    color: hsl(180, 66%, 49%);
+}
+
+#detailed_records_title {
+    color: hsl(255, 11%, 22%);
+    font-weight: 700;    
+}
+#detailed_records_text {
+    font-weight: 500;
+    color: hsl(180, 66%, 49%);
+}
+
+#customizable_title {
+    font-weight: 700;
+    color: hsl(255, 11%, 22%)
+}
+#fully_customizable_text {
+    font-weight: 500;
+    color: hsl(180, 66%, 49%);
 }
